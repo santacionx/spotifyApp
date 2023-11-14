@@ -15,5 +15,5 @@ Here are some screenshots to give you a glimpse of the Spotify App Website:
 
 ## Getting Started
 
-To experience the Spotify App Website, [visit our website]().
+To experience the Spotify App Website, [visit our website](https://santacionx.github.io/spotifyApp/).
 
